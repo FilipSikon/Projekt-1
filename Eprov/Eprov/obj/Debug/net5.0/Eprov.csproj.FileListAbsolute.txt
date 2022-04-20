@@ -1,0 +1,16 @@
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\bin\Debug\net5.0\Eprov.exe
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\bin\Debug\net5.0\Eprov.deps.json
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\bin\Debug\net5.0\Eprov.runtimeconfig.json
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\bin\Debug\net5.0\Eprov.runtimeconfig.dev.json
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\bin\Debug\net5.0\Eprov.dll
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\bin\Debug\net5.0\ref\Eprov.dll
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\bin\Debug\net5.0\Eprov.pdb
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\obj\Debug\net5.0\Eprov.csproj.AssemblyReference.cache
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\obj\Debug\net5.0\Eprov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\obj\Debug\net5.0\Eprov.AssemblyInfoInputs.cache
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\obj\Debug\net5.0\Eprov.AssemblyInfo.cs
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\obj\Debug\net5.0\Eprov.csproj.CoreCompileInputs.cache
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\obj\Debug\net5.0\Eprov.dll
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\obj\Debug\net5.0\ref\Eprov.dll
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\obj\Debug\net5.0\Eprov.pdb
+C:\Users\filip.sikon\Documents\programmering 11\Eprov\Eprov\obj\Debug\net5.0\Eprov.genruntimeconfig.cache

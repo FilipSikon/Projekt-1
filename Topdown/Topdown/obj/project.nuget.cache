@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5BxsuH1kQG30qtxxXzohE9S7YG1/h1LBOeUOrTi450pq6vj7F1I/NeynMNaqgHRCMqixA8kAWfA/BdAzgMPDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\filip.sikon\\Documents\\programmering 11\\Topdown\\Topdown\\Topdown.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\filip.sikon\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\filip.sikon\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
